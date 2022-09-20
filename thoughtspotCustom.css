@@ -1,9 +1,5 @@
 /* This is a custom css */
 
-.bk-name.bk-column.bk-column-large {
-  color: red !important;
-}
-
 .bk-pinboard-request-access {
   display: none;
 }
