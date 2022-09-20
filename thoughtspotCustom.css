@@ -1,7 +1,12 @@
 /* This is a custom css */
 
-// HomePage remove trending
+/* HomePage remove trending */
 section.layout-module__rightPanel {
+  display: none !important;
+}
+
+/* HomePage remove KPIs */
+main.layout-module__page .home-container-module__homepageCarouselContainer {
   display: none !important;
 }
 
