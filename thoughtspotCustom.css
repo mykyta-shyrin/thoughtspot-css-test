@@ -1,5 +1,11 @@
 /* This is a custom css */
 
-.bk-pinboard-request-access {
-  display: none;
+// HomePage remove trending
+section.layout-module__rightPanel {
+  display: none !important;
 }
+
+.bk-pinboard-request-access {
+  display: none !important;
+}
+
