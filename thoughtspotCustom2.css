@@ -1,0 +1,21 @@
+/* This is a custom css */
+
+/* HomePage remove trending */
+section.layout-module__rightPanel {
+  display: none !important;
+}
+
+/* HomePage remove KPIs */
+main.layout-module__page .home-container-module__homepageCarouselContainer {
+  display: none !important;
+}
+
+/* LiveBoard remove lock */
+.bk-pinboard-request-access {
+  display: none !important;
+}
+
+/* LiveBoard remove top users */
+.bk-sharable-item-pinboard-info .bk-top-users {
+  display: none !important;
+}
