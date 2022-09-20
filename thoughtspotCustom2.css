@@ -24,6 +24,9 @@ main.layout-module__page .home-container-module__homepageCarouselContainer {
 .bk-action-dropdown .bk-action-menu .bk-dropdown-item-disabled {
   display: none !important;
 }
+.bk-dropdown-item-disabled {
+  display: none !important;
+}
 
 /* Disable widget action -- layout optiuons */
 .size-selector {
