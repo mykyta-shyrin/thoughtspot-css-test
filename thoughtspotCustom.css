@@ -15,3 +15,7 @@ main.layout-module__page .home-container-module__homepageCarouselContainer {
   display: none !important;
 }
 
+/* LiveBoard remove top users */
+.bk-sharable-item-pinboard-info .bk-top-users {
+  display: none !important;
+}
