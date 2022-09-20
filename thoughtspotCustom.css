@@ -10,6 +10,7 @@ main.layout-module__page .home-container-module__homepageCarouselContainer {
   display: none !important;
 }
 
+/* LiveBoard remove lock */
 .bk-pinboard-request-access {
   display: none !important;
 }
